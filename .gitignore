@@ -1,0 +1,10 @@
+.sample.csv.temp
+my_data/
+data/
+stasy/
+/models
+runs/
+*.txt
+output_latex/
+output/
+__pycache__/
